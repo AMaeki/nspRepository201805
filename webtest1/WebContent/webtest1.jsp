@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>タイトル変更してみた</title>
+<title>タイトル変更</title>
 </head>
 <body>
 <%= new java.util.Date() %>
