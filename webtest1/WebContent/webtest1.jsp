@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>（`・ω・´）あかん！！</title>
+<title>（`・ω・´）トリガーかからへん！！</title>
 </head>
 <body>
 <%= new java.util.Date() %>
