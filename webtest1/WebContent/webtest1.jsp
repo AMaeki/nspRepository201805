@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>（`・ω・´）できるはず！</title>
+<title>（`・ω・´）できる！</title>
 </head>
 <body>
 <%= new java.util.Date() %>
