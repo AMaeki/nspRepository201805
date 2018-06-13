@@ -23,7 +23,7 @@ defaultTasks 'build'
 sourceSets {
   test {
     java {
-      srcDir 'JavaProject1/src/test/publicFunction'
+      srcDir '../JavaProject1/src/test/publicFunction'
     }
   }
 }
