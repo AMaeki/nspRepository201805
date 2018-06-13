@@ -20,4 +20,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>publicFunction</name>
+			<type>2</type>
+			<location>C:/Users/Akihiro Maeki/git/nspRepository201805/JavaProject1/src/test/publicFunction</location>
+		</link>
+	</linkedResources>
 </projectDescription>
